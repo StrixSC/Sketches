@@ -7,6 +7,7 @@
 TODO: 
 
 - [ ] Convert to Typescript
+- [ ] Add READMEs to all the folders
 - [ ] Finish Solar System   (25%)
 - [ ] Finish Crosshair      (50%)
 - [ ] Finish Physics engine (25%)
