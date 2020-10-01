@@ -1,6 +1,6 @@
 # Sketches
 
-### These are a collection of sketches made with P5.js, Processing and Haxe Lang
+### These are a collection of sketches made with P5.js
 
 #### Note: Most of these aren't that great and/or are not finished 😅
 
