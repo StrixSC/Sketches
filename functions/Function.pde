@@ -20,4 +20,9 @@ public abstract class Function {
   public void setY(Float y) {
     this.y = y;
   }
+  
+  public void reset() {
+   this.x = 0.0;
+   this.y = 0.0;
+  }
 }
